@@ -2,9 +2,7 @@
 
 An Automated Parking Ticketing based Parking Management System using Python.
 
-## Dependencies
 
-You just need Python. The code is compatible with Python3. Visit the link https://www.python.org/downloads/ to install Python. 
 
 ## Description
 
